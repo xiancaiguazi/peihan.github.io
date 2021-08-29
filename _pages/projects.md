@@ -5,4 +5,4 @@ permalink: /projects/
 author_profile: true
 ---
 
-* ** ** [video]
+* **Aerial Inspection for Port Machine Based on Digital Twin** [video](https://www.youtube.com/watch?v=nDiZuc0lM-s)
