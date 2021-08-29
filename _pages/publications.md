@@ -7,12 +7,12 @@ author_profile: true
 
 * **Agile Formation Control of Drone Flocking Enhanced with Active Vision-based Relative Localization** <br>
 **Peihan Zhang**, Gang Chen, Wei Dong <br>
-IEEE Robotics and Automation Letters (RA-L), [arXiv](https://arxiv.org/pdf/2108.05505), [video](https://www.youtube.com/watch?v=pyMY54b_c-4) <br>
+IEEE Robotics and Automation Letters (RA-L), [arXiv](https://arxiv.org/pdf/2108.05505), [video](https://youtu.be/pyMY54b_c-4) <br>
 Submited in July 2021.
 
 * **A Cooperative Aerial Inspection System with Continuable Charging Strategy** <br>
 **Peihan Zhang\***, Sen Xu, Weifan Zhang, Wei Dong <br>
-2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), [paper](https://ieeexplore.ieee.org/document/8961597), [video]() <br>
+2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), [paper](https://ieeexplore.ieee.org/document/8961597), [video](https://youtu.be/VPgk_Q9hdwE) <br>
 Published  in December 2019.
 
 * **A Novel Method for Detecting Joint Angles Based on Inertial and Magnetic Sensors** <br>
