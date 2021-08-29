@@ -12,7 +12,7 @@ Submited in July 2021.
 
 * **A Cooperative Aerial Inspection System with Continuable Charging Strategy** <br>
 **Peihan Zhang\***, Sen Xu, Weifan Zhang, Wei Dong <br>
-2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), [paper](https://ieeexplore.ieee.org/document/8961597), [video]()
+2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), [paper](https://ieeexplore.ieee.org/document/8961597), [video]() <br>
 Published  in December 2019.
 
 * **A Novel Method for Detecting Joint Angles Based on Inertial and Magnetic Sensors** <br>
