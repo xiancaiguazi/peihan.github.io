@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peihan's Website"
+title                    : "Hanjiang's Website"
 title_separator          : "-"
-name                     : &name "Peihan Zhang"
-description              : &description "Master student @ Shanghai Jiao Tong University"
-url                      : https://xiancaiguazi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Hanjiang Hu"
+description              : &description "PhD student @ Carnegie Mellon University"
+url                      : https://hanjianghu.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xiancaiguazi/xiancaiguazi.github.io"
+repository               : "HanjiangHu/HanjiangHu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,43 +73,43 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-K8MBLZ2NEV"
 
 
 # Site Author
 author:
-  name             : "Peihan Zhang 张沛晗"
-  avatar           : "profile.png"
-  bio              : "Master student @ Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  name             : "Hanjiang Hu 胡寒江"
+  avatar           : "hhj.jpg"
+  bio              : "PhD student @ Carnegie Mellon University"
+  location         : "Pittsburgh, PA"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "xiancaiguazi@sjtu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Peihan-Zhang"
-  uri              : 
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=UyooQDYAAAAJ&hl=en"
+  email            :  "hanjianghu@cmu.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : #"hanjiang.hu.3"
   foursquare       :
-  github           : "xiancaiguazi"
+  github           : "HanjiangHu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "peihan-zhang-931711212"
+  linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : #"huhanjiang"
   vine             :
   weibo            :
   xing             :
@@ -178,22 +178,15 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  projects:
     output: true
     permalink: /:collection/:path/
   miscellaneous:
     output: true
     permalink: /:collection/:path/
-
-  # teaching:
-  #   output: true
-  #   permalink: /:collection/:path/
-  # publications:
-  #   output: true
-  #   permalink: /:collection/:path/
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
@@ -204,13 +197,6 @@ collections:
 
 # Defaults
 defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
   # _research
   - scope:
       path: ""
@@ -220,35 +206,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _project
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _miscellaneous
-  - scope:
-      path: ""
-      type: miscellaneous
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-
-
   # # _posts
   # - scope:
   #     path: ""
@@ -260,13 +217,13 @@ defaults:
   #     comments: true
   #     share: true
   #     related: true
-  # # _pages
-  # - scope:
-  #     path: ""
-  #     type: pages
-  #   values:
-  #     layout: single
-  #     author_profile: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # # _teaching
   # - scope:
   #     path: ""
@@ -276,15 +233,15 @@ defaults:
   #     author_profile: true
   #     share: true
   #     comments: true
-  # # _publications
-  # - scope:
-  #     path: ""
-  #     type: publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # # _portfolio
   # - scope:
   #     path: ""
@@ -294,7 +251,7 @@ defaults:
   #     author_profile: true
   #     share: true
   #     comment: true
-  # # _talks
+  # _talks
   # - scope:
   #     path: ""
   #     type: talks
@@ -302,6 +259,15 @@ defaults:
   #     layout: talk
   #     author_profile: true
   #     share: true
+  # -miscellaneous
+  - scope:
+      path: ""
+      type: miscellaneous
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:

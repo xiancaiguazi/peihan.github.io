@@ -4,6 +4,7 @@ title: "Publications <font size=4>( * indicates equal contribution)</font>"
 permalink: /publications/
 author_profile: true
 ---
+
 * **Agile Formation Control of Drone Flocking Enhanced with Active Vision-based Relative Localization** <br>
 **Peihan Zhang**, Gang Chen, Wei Dong <br>
 IEEE Robotics and Automation Letters (RA-L), [arXiv](https://arxiv.org/pdf/2108.05505), [video]() <br>
