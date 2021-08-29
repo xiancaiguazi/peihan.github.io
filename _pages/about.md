@@ -31,6 +31,6 @@ Education
 Honors
 ======
 * 2020, China National Scholarship (by Ministry of Education, top 0.2%).
-* 2020, The 4th Intelligent Unmanned Aerial Vehicle Competition, **2nd Prize**.
-* 2019, The 3rd Intelligent Unmanned Aerial Vehicle Competition, **1st Prize** (An influential competition about UAV in China).
+* 2020, The 4th Intelligent Unmanned Aerial Vehicle Competition (High Resolution+Beidou), **2nd Prize**.
+* 2019, The 3rd Intelligent Unmanned Aerial Vehicle Competition (High Resolution+Beidou), **1st Prize** (An influential competition about UAV in China).
 * 2017, China National Scholarship (by Ministry of Education, top 0.2%).
