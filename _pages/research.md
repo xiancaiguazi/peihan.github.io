@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 My current work is about active visual perception in multi-agent formation control. This work leverages aerial platforms with an active-vision system, i.e., a motorized camera mounted on the drone to have an additional rotational DOF (Degree of Freedom). With this novel hardware, the path planning and visual perception are decoupled as two separate concerns. 
+
  <img src="/images/active-vision-system.gif" width = "425" height = "330" alt="active-vision system" align=center />
  <img src="/images/opt-vision.gif" width = "330" height = "330" alt="visual perception optimization" align=center />
 
