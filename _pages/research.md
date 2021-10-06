@@ -19,7 +19,7 @@ The framework mentioned above is realized in a distributed manner. Agents commun
 
 [![Agile Formation Control of Drone Flocking Enhanced with Active Vision-based Relative Localization](https://img.youtube.com/vi/pyMY54b_c-4/0.jpg)](https://youtu.be/pyMY54b_c-4 "Agile Formation Control of Drone Flocking Enhanced with Active Vision-based Relative Localization")
 
-<video src="https://youtu.be/pyMY54b_c-4" controls="controls" width="500" height="300" />
+<video src="https://youtu.be/pyMY54b_c-4" controls="controls" width="500" height="300">video not support! </video>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=R0uufIdWCD4
 " target="_blank"><img src="http://img.youtube.com/vi/R0uufIdWCD4/0.jpg" 
