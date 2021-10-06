@@ -24,9 +24,9 @@ Published  in November 2018. -->
 
 *	**P. Zhang**, S. Xu, W. Zhang and W. Dong, "A Cooperative Aerial Inspection System with Continuable Charging Strategy," 2019 IEEE International Conference on Robotics and Biomimetics (**ROBIO**), 2019, pp. 770-777, doi: 10.1109/ROBIO49542.2019.8961597. [paper](https://ieeexplore.ieee.org/document/8961597), [video](https://youtu.be/VPgk_Q9hdwE)
 
-*	Y. Huang, **P. Zhang** and," W. Dong, " Relative State Estimation with Observer-based Intermittent Kalman Filter and Radial Basis Function Neural Network," 2021 IEEE International Conference on Robotics and Biomimetics (**ROBIO**)
+*	Y. Huang, **P. Zhang** and," W. Dong, " Relative State Estimation with Observer-based Intermittent Kalman Filter and Radial Basis Function Neural Network," 2021 IEEE International Conference on Robotics and Biomimetics (**ROBIO**), under review.
 
-*	C. Gang, **P. Zhang**, Z. Wang and W. Dong, "TRP-Controller: An Efficient Anti-Saturation Controller for Quadrotors Performing Yaw-low-priority Motions," 2021 27th International Conference on Mechatronics and Machine Vision in Practice (**M2VIP**)
+*	C. Gang, **P. Zhang**, Z. Wang and W. Dong, "TRP-Controller: An Efficient Anti-Saturation Controller for Quadrotors Performing Yaw-low-priority Motions," 2021 27th International Conference on Mechatronics and Machine Vision in Practice (**M2VIP**), accepted.
 
 *	Y. Huang, M. Gou, **P. Zhang**, X. Wang, H. Xie and X. Sheng, "A Novel Method for Detecting Joint Angles Based on Inertial and Magnetic Sensors," 2018 25th International Conference on Mechatronics and Machine Vision in Practice (**M2VIP**), 2018, pp. 1-6, doi: 10.1109/M2VIP.2018.8600868. [paper](https://ieeexplore.ieee.org/document/8600868)
 
