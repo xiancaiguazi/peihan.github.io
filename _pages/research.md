@@ -28,11 +28,7 @@ Research Experiences
   </a>
  <p> &emsp;&emsp;&emsp;&emsp;</p> 
  <p> 
-  <ul>
-   <li>
-   <b>Agile Formation Control of Aerial Swarm Based on Active Vision</b>
-    </li>
-   </ul>
+   <b>● Agile Formation Control of Aerial Swarm Based on Active Vision</b>
    This study proposes a novel active vision framework for multi-robot drone formation which enhances the accuracy of relative localization between agents and demonstrates real-time capabilities of proposed algorithms on real distributed hardware. 
  </p>
 </div>
@@ -44,11 +40,7 @@ Research Experiences
  </a>
  <p> &emsp;&emsp;&emsp;&emsp;</p> 
  <p> 
-   <ul>
-   <li>
-   <b>Ground-Aerial Cooperative Inspection System with Continuable Charging</b>
-    </li>
-   </ul>
+   <b>● Ground-Aerial Cooperative Inspection System with Continuable Charging</b>
    This study proposes an aerial-ground cooperative architecture that aims to inspect a given area. Unmanned Aerial Vehicles (UAVs) perform the area coverage mission while the Unmanned Ground Vehicle (UGV) serves as an intelligent charging station to prolong the operation time of aerial swarms.
   </p>
 </div>
@@ -60,11 +52,7 @@ Research Experiences
  </a>
  <p> &emsp;&emsp;&emsp;&emsp;</p> 
  <p> 
-   <ul>
-   <li>
-   <b>Autonomous UAV Inspection for Port Machine in Digital Twin</b>
-    </li>
-   </ul>
+   <b>● Autonomous UAV Inspection for Port Machine in Digital Twin</b>
    This study	developes an simulated port environment with PX4, Gazebo, and ROS which is able to import over 20 types of port machine to 100m×100m size inspection scenarios, which satisfies the need for more efficient and safer autonomous aerial inspection of the world's largest port machinery manufacturer.
   </p>
 </div>
@@ -78,11 +66,7 @@ Selected Projects
  </a>
  <p> &emsp;&emsp;&emsp;&emsp;</p> 
 <p> 
-  <ul>
-   <li>
-   <b>2020 Fast 3D Reconstruction of Interal Factory by the Aerial Vehicle </b>
-    </li>
-   </ul>
+   <b>● 2020 Fast 3D Reconstruction of Interal Factory by the Aerial Vehicle </b>
    <br /><br /><br />
   </p>
 </div>
@@ -94,11 +78,7 @@ Selected Projects
  </a>
  <p> &emsp;&emsp;&emsp;&emsp;</p> 
  <p> 
-   <ul>
-   <li>
-   <b>2020 The 4th Intelligent Unmanned Aerial Vehicle Competition </b>
-    </li>
-   </ul>
+   <b>● 2020 The 4th Intelligent Unmanned Aerial Vehicle Competition </b>
    <br /><br /><br />
   </p>
 </div>
