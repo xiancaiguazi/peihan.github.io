@@ -42,13 +42,14 @@ Research Experiences
  <a href="https://www.youtube.com/watch?v=pyMY54b_c-4" target="_blank">
     <img src="/images/active-vision.png" align = "left" alt="active vision" width="320" height="180" border="10" style="vertical-align:middle"/>
   </a>
+ &emsp;&emsp;
  <p> 
    <b>Agile Formation Control of Aerial Swarm Based on Active Vision</b>
    <br />
    This study proposes a novel active vision framework for multi-robot drone formation which enhances the accuracy of relative localization between agents and demonstrates real-time capabilities of proposed algorithms on real distributed hardware. 
  </p>
 </div>
-
+<br /><br />
 
 <ul>
 <li>
