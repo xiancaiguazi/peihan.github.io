@@ -88,7 +88,7 @@ Selected Projects
 
 <div style="margin:10 width:100%" >
  <a href="https://www.youtube.com/watch?v=wfi7CVHrzNU" target="_blank">
-   <img src="/images/drone-competition.png" align = "left" alt="drone-competition" width="320" height="180" border="10" style="vertical-align:middle" />
+   <img src="/images/drone-competition.png" align = "left" alt="drone-competition" width="320" height="180" border="10" style="vertical-align:text-bottom" />
  </a>
  <span><b>● 2020 The 4th Intelligent Unmanned Aerial Vehicle Competition </b></span>
 </div>
