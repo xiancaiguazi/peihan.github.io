@@ -7,8 +7,9 @@ author_profile: true
 
 My current work is about active visual perception in multi-agent formation control. This work leverages aerial platforms with an active-vision system, i.e., a motorized camera mounted on the drone to have an additional rotational DOF (Degree of Freedom). With this novel hardware, the path planning and visual perception are decoupled as two separate concerns. 
 
- <img src="/images/active-vision-system.gif" width = "425" height = "330" alt="active-vision system" align=center />
- <img src="/images/opt-vision.gif" width = "330" height = "330" alt="visual perception optimization" align=center />
+ <img src="/images/active-vision-system.gif"  height = "240" alt="active-vision system" align=center />
+ &emsp;&emsp;
+ <img src="/images/opt-vision.gif"  height = "240" alt="visual perception optimization" align=center />
 
 
 For visual perception, an algorithm is designed to plan to angle of rotation of each camera to meet several requirements: First, each agent should be observed or observe at least one other agent so that the visual perception topology is a connected graph; Second, the rotation of the camera should avoid motion blur of the target agent. The results of visual perception are used for relative localization between agents.
@@ -19,7 +20,10 @@ The framework mentioned above is realized in a distributed manner. Agents commun
 
 Research Experiences
 ======
+ul{padding: 0.5rem; width: 100%; overflow: hidden;}
+li{padding: 0.5rem}
 
+<ul>
 <li>
  <a href="https://www.youtube.com/watch?v=pyMY54b_c-4" target="_blank">
    <img src="/images/active-vision.png" align = "left" alt="active vision" width="320" height="180" border="10" />
@@ -29,9 +33,9 @@ Research Experiences
   </p>
  </div>
 </li>
-<br>
-<br>
+</ul>
 
+<ul>
 <li>
  <a href="https://www.youtube.com/watch?v=VPgk_Q9hdwE" target="_blank">
    <img src="/images/ground-aerial.png" align = "left" alt="ground-aerial inspection" width="320" height="180" border="10" />
@@ -41,9 +45,9 @@ Research Experiences
   </p>
  </div>
 </li>
-<br>
-<br>
+</ul>
 
+<ul>
 <li>
  <a href="https://www.youtube.com/watch?v=nDiZuc0lM-s" target="_blank">
    <img src="/images/quayside-inspection.png" align = "left" alt="quayside inspection" width="320" height="180" border="10" />
@@ -53,8 +57,7 @@ Research Experiences
   </p>
  </div>
 </li>
-<br>
-<br>
+</ul>
 
 <!-- markdown 插入图片并且给图片附上链接的格式
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://www.youtube.com/embed/GzdKMVn8avo "CameraMaster") -->
@@ -64,6 +67,7 @@ Research Experiences
 
 Selected Projects
 ======
+<ul>
 <li>
  <a href="https://www.youtube.com/watch?v=k0W_9xlVHAk" target="_blank">
    <img src="/images/3D-reconstruction.png" align = "left" alt="quayside inspection" width="320" height="180" border="10" />
@@ -73,9 +77,10 @@ Selected Projects
   </p>
  </div>
 </li>
-<br>
-<br>
+</ul>
 
+
+<ul>
 <li>
  <a href="https://www.youtube.com/watch?v=wfi7CVHrzNU" target="_blank">
    <img src="/images/drone-competition.png" align = "left" alt="drone-competition" width="320" height="180" border="10" />
@@ -85,6 +90,6 @@ Selected Projects
   </p>
  </div>
 </li>
-<br>
-<br>
+</ul>
+
 
