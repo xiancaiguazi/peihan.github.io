@@ -20,9 +20,11 @@ The framework mentioned above is realized in a distributed manner. Agents commun
 Research Experiences
 ======
 <a href="https://www.youtube.com/watch?v=pyMY54b_c-4" target="_blank">
- <img src="/images/active-vision.png" alt="active vision" width="320" height="180" border="10" />
+ <div align = "right">
+  <img src="/images/active-vision.png" alt="active vision" width="320" height="180" border="10" />
+ </div>
 </a>
-This study proposes a novel active vision framework for multi-robot drone formation which enhances the accuracy of relative localization between agents and demonstrates real-time capabilities of proposed algorithms on real distributed hardware.
+* This study proposes a novel active vision framework for multi-robot drone formation which enhances the accuracy of relative localization between agents and demonstrates real-time capabilities of proposed algorithms on real distributed hardware.
 
 <!-- markdown 插入图片并且给图片附上链接的格式
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://www.youtube.com/embed/GzdKMVn8avo "CameraMaster") -->
