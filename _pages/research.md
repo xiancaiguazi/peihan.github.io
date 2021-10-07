@@ -22,17 +22,17 @@ The framework mentioned above is realized in a distributed manner. Agents commun
 
 Research Experiences
 ======
-<div style="display:inline vertical-align:middle" >
+<div >
  <a href="https://www.youtube.com/watch?v=pyMY54b_c-4" target="_blank">
     <img src="/images/active-vision.png" align = "left" alt="active vision" width="320" height="180" border="10" style="vertical-align:middle"/>
   </a>
  <p> 
    <b>● Agile Formation Control of Aerial Swarm Based on Active Vision</b>
-  <br />
+  <br>
    This study proposes a novel active vision framework for multi-robot drone formation which enhances the accuracy of relative localization between agents and demonstrates real-time capabilities of proposed algorithms on real distributed hardware. 
  </p>
 </div>
-<br />
+<br>
 
 <div>
  <a href="https://www.youtube.com/watch?v=VPgk_Q9hdwE" target="_blank">
@@ -66,7 +66,7 @@ Selected Projects
  </a>
 <p> 
    <b>● 2020 Fast 3D Reconstruction of Interal Factory by the Aerial Vehicle </b>
-   <br /><br /><br />
+   <br /><br /><br /><br />
   </p>
 </div>
 <br />
@@ -77,7 +77,7 @@ Selected Projects
  </a>
  <p> 
    <b>● 2020 The 4th Intelligent Unmanned Aerial Vehicle Competition </b>
-   <br /><br /><br />
+   <br /><br /><br /><br />
   </p>
 </div>
 <br />
