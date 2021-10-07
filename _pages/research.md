@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My current work is about active visual perception in multi-agent formation control. This work leverages aerial platforms with an active-vision system, i.e., a motorized camera mounted on the drone to have an additional rotational DOF (Degree of Freedom). With this novel hardware, the path planning and visual perception are decoupled as two separate concerns. 
+My current work is about active visual perception in multi-agent formation control. This work leverages aerial platforms with an active-vision system, i.e., a motorized camera mounted on the drone to have an additional rotational DOF (Degree of Freedom). With this novel hardware, path planning and visual perception are decoupled as two separate concerns. 
 
 <div align="center">
  <img src="/images/active-vision-system.gif"  width = "310" height = "240" alt="active-vision system" align="center" />
@@ -55,7 +55,7 @@ Research Experiences
  <p> 
    <b>● Autonomous UAV Inspection for Port Machine in Digital Twin</b>
   <br />
-   This study	developes an simulated port environment with PX4, Gazebo, and ROS which is able to import over 20 types of port machine to 100m×100m size inspection scenarios, which satisfies the need for more efficient and safer autonomous aerial inspection of the world's largest port machinery manufacturer.
+   This study develops a simulated port environment with PX4, Gazebo, and ROS, which can import over 20 types of port machines to 100m×100m size inspection scenarios, satisfying the need for a more efficient and safer autonomous aerial inspection of the world's largest port machinery manufacturer.
   </p>
 </div>
 <br /><br />
@@ -68,7 +68,7 @@ Selected Projects
    <img src="/images/3D-reconstruction.png" align = "left" alt="quayside inspection" width="320" height="180" border="10" style="vertical-align:middle" />
  </a>
 <p> 
-   <b>● 2020 Fast 3D Reconstruction of Interal Factory by the Aerial Vehicle </b>
+   <b>● 2020 Fast 3D Reconstruction of Internal Factory by the Aerial Vehicle </b>
    <br /><br /><br /><br /><br />
 </p>
 </div>
