@@ -29,6 +29,7 @@ Research Experiences
  <p> &emsp;&emsp;&emsp;&emsp;</p> 
  <p> 
    <b>● Agile Formation Control of Aerial Swarm Based on Active Vision</b>
+  <br />
    This study proposes a novel active vision framework for multi-robot drone formation which enhances the accuracy of relative localization between agents and demonstrates real-time capabilities of proposed algorithms on real distributed hardware. 
  </p>
 </div>
@@ -41,6 +42,7 @@ Research Experiences
  <p> &emsp;&emsp;&emsp;&emsp;</p> 
  <p> 
    <b>● Ground-Aerial Cooperative Inspection System with Continuable Charging</b>
+  <br />
    This study proposes an aerial-ground cooperative architecture that aims to inspect a given area. Unmanned Aerial Vehicles (UAVs) perform the area coverage mission while the Unmanned Ground Vehicle (UGV) serves as an intelligent charging station to prolong the operation time of aerial swarms.
   </p>
 </div>
@@ -53,6 +55,7 @@ Research Experiences
  <p> &emsp;&emsp;&emsp;&emsp;</p> 
  <p> 
    <b>● Autonomous UAV Inspection for Port Machine in Digital Twin</b>
+  <br />
    This study	developes an simulated port environment with PX4, Gazebo, and ROS which is able to import over 20 types of port machine to 100m×100m size inspection scenarios, which satisfies the need for more efficient and safer autonomous aerial inspection of the world's largest port machinery manufacturer.
   </p>
 </div>
