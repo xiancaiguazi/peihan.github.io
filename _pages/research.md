@@ -23,7 +23,7 @@ Research Experiences
 <video src="https://www.youtube.com/watch?v=pyMY54b_c-4" controls="controls" width="500" height="300">video not support! </video>
 
 <a href="https://www.youtube.com/watch?v=pyMY54b_c-4" target="_blank">
- <img src="\images\active-vision" alt="active vision" width="640" height="360" border="10" />
+ <img src="\images\active-vision" alt="active vision" width="320" height="180" border="10" />
 </a>
 
 <!-- markdown 插入图片并且给图片附上链接的格式
