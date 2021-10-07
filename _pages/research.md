@@ -60,7 +60,7 @@ Research Experiences
 
 Selected Projects
 ======
-<div vertical-align:middle" >
+<div >
 <a href="https://www.youtube.com/watch?v=k0W_9xlVHAk" target="_blank">
    <img src="/images/3D-reconstruction.png" align = "left" alt="quayside inspection" width="320" height="180" border="10" style="vertical-align:middle" />
  </a>
