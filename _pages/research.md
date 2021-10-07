@@ -60,24 +60,24 @@ Research Experiences
 
 Selected Projects
 ======
-<div style="margin:10" >
+<div style="margin:10 width:100%" >
 <a href="https://www.youtube.com/watch?v=k0W_9xlVHAk" target="_blank">
    <img src="/images/3D-reconstruction.png" align = "left" alt="quayside inspection" width="320" height="180" border="10" style="vertical-align:middle" />
  </a>
 <p> 
    <b>● 2020 Fast 3D Reconstruction of Interal Factory by the Aerial Vehicle </b>
-   <br /><br /><br /><br />
+   <br /><br /><br /><br /><br />
 </p>
 </div>
 <br />
 
-<div style="margin:10" >
+<div style="margin:10 width:100%" >
  <a href="https://www.youtube.com/watch?v=wfi7CVHrzNU" target="_blank">
    <img src="/images/drone-competition.png" align = "left" alt="drone-competition" width="320" height="180" border="10" style="vertical-align:middle" />
  </a>
  <p> 
    <b>● 2020 The 4th Intelligent Unmanned Aerial Vehicle Competition </b>
-   <br /><br /><br /><br />
+   <br /><br /><br /><br /><br />
   </p>
 </div>
 <br />
