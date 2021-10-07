@@ -34,11 +34,10 @@ Research Experiences
 </div>
 <br />
 
-<div>
+<div style="display:inline vertical-align:middle" >
  <a href="https://www.youtube.com/watch?v=VPgk_Q9hdwE" target="_blank">
    <img src="/images/ground-aerial.png" align = "left" alt="ground-aerial inspection" width="320" height="180" border="10" />
  </a>
- <p> &emsp;&emsp;&emsp;&emsp;</p> 
  <p> 
    <b>● Ground-Aerial Cooperative Inspection System with Continuable Charging</b>
   <br />
@@ -47,11 +46,10 @@ Research Experiences
 </div>
 <br />
 
-<div>
+<div style="display:inline vertical-align:middle" >
  <a href="https://www.youtube.com/watch?v=nDiZuc0lM-s" target="_blank">
    <img src="/images/quayside-inspection.png" align = "left" alt="quayside inspection" width="320" height="180" border="10" />
  </a>
- <p> &emsp;&emsp;&emsp;&emsp;</p> 
  <p> 
    <b>● Autonomous UAV Inspection for Port Machine in Digital Twin</b>
   <br />
@@ -62,11 +60,10 @@ Research Experiences
 
 Selected Projects
 ======
-<div>
+<div style="display:inline vertical-align:middle" >
 <a href="https://www.youtube.com/watch?v=k0W_9xlVHAk" target="_blank">
    <img src="/images/3D-reconstruction.png" align = "left" alt="quayside inspection" width="320" height="180" border="10" />
  </a>
- <p> &emsp;&emsp;&emsp;&emsp;</p> 
 <p> 
    <b>● 2020 Fast 3D Reconstruction of Interal Factory by the Aerial Vehicle </b>
    <br /><br /><br />
@@ -74,11 +71,11 @@ Selected Projects
 </div>
 <br />
 
-<div>
+<div style="display:inline vertical-align:middle" >
  <a href="https://www.youtube.com/watch?v=wfi7CVHrzNU" target="_blank">
    <img src="/images/drone-competition.png" align = "left" alt="drone-competition" width="320" height="180" border="10" />
  </a>
- <p> &emsp;&emsp;&emsp;&emsp;</p> 
+ &emsp;&emsp;&emsp;&emsp;
  <p> 
    <b>● 2020 The 4th Intelligent Unmanned Aerial Vehicle Competition </b>
    <br /><br /><br />
