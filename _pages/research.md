@@ -22,16 +22,15 @@ The framework mentioned above is realized in a distributed manner. Agents commun
 
 Research Experiences
 ======
-<div>
+<div style="display:inline">
  <a href="https://www.youtube.com/watch?v=pyMY54b_c-4" target="_blank">
     <img src="/images/active-vision.png" align = "left" alt="active vision" width="320" height="180" border="10" style="vertical-align:middle"/>
   </a>
- <p> &emsp;&emsp;</p> 
+ <p> &emsp;&emsp;&emsp;&emsp;</p> 
  <p> 
   <ul>
    <li>
    <b>Agile Formation Control of Aerial Swarm Based on Active Vision</b>
-   <br />
     </li>
    </ul>
    This study proposes a novel active vision framework for multi-robot drone formation which enhances the accuracy of relative localization between agents and demonstrates real-time capabilities of proposed algorithms on real distributed hardware. 
@@ -43,12 +42,11 @@ Research Experiences
  <a href="https://www.youtube.com/watch?v=VPgk_Q9hdwE" target="_blank">
    <img src="/images/ground-aerial.png" align = "left" alt="ground-aerial inspection" width="320" height="180" border="10" />
  </a>
- <p> &emsp;&emsp;</p> 
+ <p> &emsp;&emsp;&emsp;&emsp;</p> 
  <p> 
    <ul>
    <li>
    <b>Ground-Aerial Cooperative Inspection System with Continuable Charging</b>
-   <br />
     </li>
    </ul>
    This study proposes an aerial-ground cooperative architecture that aims to inspect a given area. Unmanned Aerial Vehicles (UAVs) perform the area coverage mission while the Unmanned Ground Vehicle (UGV) serves as an intelligent charging station to prolong the operation time of aerial swarms.
@@ -60,12 +58,11 @@ Research Experiences
  <a href="https://www.youtube.com/watch?v=nDiZuc0lM-s" target="_blank">
    <img src="/images/quayside-inspection.png" align = "left" alt="quayside inspection" width="320" height="180" border="10" />
  </a>
- <p> &emsp;&emsp;</p> 
+ <p> &emsp;&emsp;&emsp;&emsp;</p> 
  <p> 
    <ul>
    <li>
    <b>Autonomous UAV Inspection for Port Machine in Digital Twin</b>
-   <br />
     </li>
    </ul>
    This study	developes an simulated port environment with PX4, Gazebo, and ROS which is able to import over 20 types of port machine to 100m×100m size inspection scenarios, which satisfies the need for more efficient and safer autonomous aerial inspection of the world's largest port machinery manufacturer.
@@ -79,7 +76,7 @@ Selected Projects
 <a href="https://www.youtube.com/watch?v=k0W_9xlVHAk" target="_blank">
    <img src="/images/3D-reconstruction.png" align = "left" alt="quayside inspection" width="320" height="180" border="10" />
  </a>
- <p> &emsp;&emsp;</p> 
+ <p> &emsp;&emsp;&emsp;&emsp;</p> 
 <p> 
   <ul>
    <li>
@@ -95,7 +92,7 @@ Selected Projects
  <a href="https://www.youtube.com/watch?v=wfi7CVHrzNU" target="_blank">
    <img src="/images/drone-competition.png" align = "left" alt="drone-competition" width="320" height="180" border="10" />
  </a>
- <p> &emsp;&emsp;</p> 
+ <p> &emsp;&emsp;&emsp;&emsp;</p> 
  <p> 
    <ul>
    <li>
