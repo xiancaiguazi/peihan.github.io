@@ -26,11 +26,14 @@ Research Experiences
    <img src="/images/active-vision.png" align = "left" alt="active vision" width="320" height="180" border="10" />
  </a>
  <div>
-  <p> This study proposes a novel active vision framework for multi-robot drone formation which enhances the accuracy of relative localization between agents and demonstrates real-time capabilities of proposed algorithms on real distributed hardware. 
+  <p> 
+   <b>Agile Formation Control of Aerial Swarm Based on Active Vision</b>
+   <br />
+   This study proposes a novel active vision framework for multi-robot drone formation which enhances the accuracy of relative localization between agents and demonstrates real-time capabilities of proposed algorithms on real distributed hardware. 
   </p>
  </div>
 </li>
-<br /><br /><br />
+<br /><br />
 
 
 <li>
@@ -38,22 +41,28 @@ Research Experiences
    <img src="/images/ground-aerial.png" align = "left" alt="ground-aerial inspection" width="320" height="180" border="10" />
  </a>
  <div>
-  <p> This study proposes an aerial-ground cooperative architecture that aims to inspect a given area. Unmanned Aerial Vehicles (UAVs) perform the area coverage mission while the Unmanned Ground Vehicle (UGV) serves as an intelligent charging station to prolong the operation time of aerial swarms.
+  <p> 
+   <b>Ground-Aerial Cooperative Inspection System with Continuable Charging</b>
+   <br />
+   This study proposes an aerial-ground cooperative architecture that aims to inspect a given area. Unmanned Aerial Vehicles (UAVs) perform the area coverage mission while the Unmanned Ground Vehicle (UGV) serves as an intelligent charging station to prolong the operation time of aerial swarms.
   </p>
  </div>
 </li>
-<br /><br /><br />
+<br /><br />
 
 <li>
  <a href="https://www.youtube.com/watch?v=nDiZuc0lM-s" target="_blank">
    <img src="/images/quayside-inspection.png" align = "left" alt="quayside inspection" width="320" height="180" border="10" />
  </a>
  <div>
-  <p> This study	developes an simulated port environment with PX4, Gazebo, and ROS which is able to import over 20 types of port machine to 100m×100m size inspection scenarios, which satisfies the need for more efficient and safer autonomous aerial inspection of the world's largest port machinery manufacturer.
+  <p> 
+   <b>Autonomous UAV Inspection for Port Machine in Digital Twin</b>
+   <br />
+   This study	developes an simulated port environment with PX4, Gazebo, and ROS which is able to import over 20 types of port machine to 100m×100m size inspection scenarios, which satisfies the need for more efficient and safer autonomous aerial inspection of the world's largest port machinery manufacturer.
   </p>
  </div>
 </li>
-<br /><br /><br />
+<br /><br />
 
 <!-- markdown 插入图片并且给图片附上链接的格式
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://www.youtube.com/embed/GzdKMVn8avo "CameraMaster") -->
@@ -74,7 +83,7 @@ Selected Projects
   </p>
  </div>
 </li>
-<br /><br /><br />
+<br /><br />
 
 
 <li>
