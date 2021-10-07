@@ -26,7 +26,6 @@ Research Experiences
  <a href="https://www.youtube.com/watch?v=pyMY54b_c-4" target="_blank">
     <img src="/images/active-vision.png" align = "left" alt="active vision" width="320" height="180" border="10" style="vertical-align:middle"/>
   </a>
- <p> &emsp;&emsp;&emsp;&emsp;</p> 
  <p> 
    <b>● Agile Formation Control of Aerial Swarm Based on Active Vision</b>
   <br />
