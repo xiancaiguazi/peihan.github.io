@@ -30,6 +30,8 @@ Research Experiences
  </div>
 </li>
 <br>
+<br>
+
 <li>
  <a href="https://www.youtube.com/watch?v=VPgk_Q9hdwE" target="_blank">
    <img src="/images/ground-aerial.png" align = "left" alt="ground-aerial inspection" width="320" height="180" border="10" />
@@ -41,6 +43,7 @@ Research Experiences
 </li>
 <br>
 <br>
+
 <li>
  <a href="https://www.youtube.com/watch?v=nDiZuc0lM-s" target="_blank">
    <img src="/images/quayside-inspection.png" align = "left" alt="quayside inspection" width="320" height="180" border="10" />
@@ -72,6 +75,7 @@ Selected Projects
 </li>
 <br>
 <br>
+
 <li>
  <a href="https://www.youtube.com/watch?v=wfi7CVHrzNU" target="_blank">
    <img src="/images/drone-competition.png" align = "left" alt="drone-competition" width="320" height="180" border="10" />
@@ -83,3 +87,4 @@ Selected Projects
 </li>
 <br>
 <br>
+
