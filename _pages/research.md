@@ -17,12 +17,17 @@ For the path planning, the aerial swarm maintain their formation and avoid colli
 
 The framework mentioned above is realized in a distributed manner. Agents communicate through UWB network.
 
-[![Agile Formation Control of Drone Flocking Enhanced with Active Vision-based Relative Localization](https://img.youtube.com/vi/pyMY54b_c-4/0.jpg)](https://youtu.be/pyMY54b_c-4 "Agile Formation Control of Drone Flocking Enhanced with Active Vision-based Relative Localization")
+Research Experiences
+======
 
 <video src="https://www.youtube.com/watch?v=pyMY54b_c-4" controls="controls" width="500" height="300">video not support! </video>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=R0uufIdWCD4
-" target="_blank"><img src="http://img.youtube.com/vi/R0uufIdWCD4/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=pyMY54b_c-4" target="_blank">
+ <img src="http://img.youtube.com/vi/R0uufIdWCD4/0.jpg" alt="active vision" width="640" height="360" border="10" />
+</a>
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://www.youtube.com/embed/GzdKMVn8avo "CameraMaster")
+<!-- markdown 插入图片并且给图片附上链接的格式
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://www.youtube.com/embed/GzdKMVn8avo "CameraMaster") -->
+
+Selected Projects
+======
