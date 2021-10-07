@@ -29,8 +29,29 @@ Research Experiences
   </p>
  </div>
 </li>
-<br />
-
+<br>
+<li>
+ <a href="https://www.youtube.com/watch?v=VPgk_Q9hdwE" target="_blank">
+   <img src="/images/ground-aerial.png" align = "left" alt="ground-aerial inspection" width="320" height="180" border="10" />
+ </a>
+ <div>
+  <p> This study proposes an aerial-ground cooperative architecture that aims to inspect a given area. Unmanned Aerial Vehicles (UAVs) perform the area coverage mission while the Unmanned Ground Vehicle (UGV) serves as an intelligent charging station to prolong the operation time of aerial swarms.
+  </p>
+ </div>
+</li>
+<br>
+<br>
+<li>
+ <a href="https://www.youtube.com/watch?v=nDiZuc0lM-s" target="_blank">
+   <img src="/images/quayside-inspection.png" align = "left" alt="quayside inspection" width="320" height="180" border="10" />
+ </a>
+ <div>
+  <p> This study	developes an simulated port environment with PX4, Gazebo, and ROS which is able to import over 20 types of port machine to 100m×100m size inspection scenarios, which satisfies the need for more efficient and safer autonomous aerial inspection of the world's largest port machinery manufacturer.
+  </p>
+ </div>
+</li>
+<br>
+<br>
 
 <!-- markdown 插入图片并且给图片附上链接的格式
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://www.youtube.com/embed/GzdKMVn8avo "CameraMaster") -->
@@ -40,3 +61,25 @@ Research Experiences
 
 Selected Projects
 ======
+<li>
+ <a href="https://www.youtube.com/watch?v=k0W_9xlVHAk" target="_blank">
+   <img src="/images/3D-reconstruction.png" align = "left" alt="quayside inspection" width="320" height="180" border="10" />
+ </a>
+ <div>
+  <p> 2020 Fast 3D Reconstruction of Interal Factory by the Aerial Vehicle.
+  </p>
+ </div>
+</li>
+<br>
+<br>
+<li>
+ <a href="https://www.youtube.com/watch?v=wfi7CVHrzNU" target="_blank">
+   <img src="/images/drone-competition.png" align = "left" alt="drone-competition" width="320" height="180" border="10" />
+ </a>
+ <div>
+  <p> **2020 The 4th Intelligent Unmanned Aerial Vehicle Competition **.
+  </p>
+ </div>
+</li>
+<br>
+<br>
