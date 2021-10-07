@@ -22,7 +22,7 @@ The framework mentioned above is realized in a distributed manner. Agents commun
 
 Research Experiences
 ======
-<div style="display:inline">
+<div style="display:inline vertical-align:middle" >
  <a href="https://www.youtube.com/watch?v=pyMY54b_c-4" target="_blank">
     <img src="/images/active-vision.png" align = "left" alt="active vision" width="320" height="180" border="10" style="vertical-align:middle"/>
   </a>
