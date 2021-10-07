@@ -46,7 +46,7 @@ Research Experiences
 </div>
 <br />
 
-<div style="display:inline vertical-align:middle" >
+<div style="display:inline" >
  <a href="https://www.youtube.com/watch?v=nDiZuc0lM-s" target="_blank">
    <img src="/images/quayside-inspection.png" align = "left" alt="quayside inspection" width="320" height="180" border="10" />
  </a>
@@ -60,7 +60,7 @@ Research Experiences
 
 Selected Projects
 ======
-<div style="display:inline vertical-align:middle" >
+<div vertical-align:middle" >
 <a href="https://www.youtube.com/watch?v=k0W_9xlVHAk" target="_blank">
    <img src="/images/3D-reconstruction.png" align = "left" alt="quayside inspection" width="320" height="180" border="10" />
  </a>
