@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Research Assistant at Cooperative Intelligent Unmanned System (CIUS) Lab @ SJTU advised by [Prof. Wei Dong](https://scholar.google.com/citations?user=hbaEVRMAAAAJ&hl=en).
 
-My research interest focuses on **multi-agent system**. At present, I am working on path planinng formation control of aerial swarms with active vision. 
+My research interest focuses on **multi-agent system**. At present, I am working on path planninng formation control of aerial swarms with active vision. 
 
 <!-- I am also adept at developing high-performance aerial platforms. -->
 
@@ -23,18 +23,18 @@ My research interest focuses on **multi-agent system**. At present, I am working
 Education
 ======
 * **M.S.** in Mechanical Engineering, Robotics Institute, School of Mechanical Engineering, Shanghai Jiao Tong University, *Sep. 2019-Mar. 2022 (expected)*
-  * Major: Mechanical Engineering，GAP: 3.91/4, Ranking: top 2%
-  * Research Asistant @CUIS Lab
+  * Major: Mechanical Engineering，GAP: 3.91/4, **Ranking: top 2%**
+  * Research Assistant @CUIS Lab
 
 * **B.E.**, School of Mechanical Engineering, Shanghai Jiao Tong University, *Sep. 2015-Jun. 2019*
-  * Major: Mechanical Engineering, GPA: 89.5/100 (3.85/4.0), Ranking: 3/150
+  * Major: Mechanical Engineering, GPA: 89.5/100 (3.85/4.0), **Ranking: 3/150**
   * Minor: Computer Science
 
 Selected Honors
 ======
 * 2020, National Graduate Scholarship (by Ministry of Education, top 0.2% nationwide).
 * 2020, The 4th Intelligent Unmanned Aerial Vehicle Competition (highest nationwide drone competition), **2nd Prize**.
-* 2019, The 3rd Intelligent Unmanned Aerial Vehicle Competition , **1st Prize** (both simulation & real-world).
+* 2019, The 3rd Intelligent Unmanned Aerial Vehicle Competition, **1st Prize** (both simulation & real-world).
 * 2019, Honor Graduate (top 5%)	
 * 2019, 3rd Prize of the 16th Chinese Postgraduate Mathematical Modeling Contest
 * 2017, National Scholarship (by Ministry of Education, top 0.2% nationwide).
