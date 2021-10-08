@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Research Assistant at Cooperative Intelligent Unmanned System (CIUS) Lab @ SJTU advised by [Prof. Wei Dong](https://scholar.google.com/citations?user=hbaEVRMAAAAJ&hl=en).
 
-My research interest focuses on **multi-agent system**. At present, I am working on path planninng formation control of aerial swarms with active vision. 
+My research interest focuses on **multi-agent systems**. At present, I am working on path planninng and formation control of aerial swarm with active-vision system. 
 
 <!-- I am also adept at developing high-performance aerial platforms. -->
 
