@@ -24,7 +24,7 @@ Published  in November 2018. -->
 
 *	**P. Zhang**, S. Xu, W. Zhang and W. Dong, "A Cooperative Aerial Inspection System with Continuable Charging Strategy," 2019 IEEE International Conference on Robotics and Biomimetics (**ROBIO**), 2019, pp. 770-777, doi: 10.1109/ROBIO49542.2019.8961597. [paper](https://ieeexplore.ieee.org/document/8961597), [video](https://youtu.be/VPgk_Q9hdwE)
 
-*	Y. Huang, **P. Zhang** and," W. Dong, " Relative State Estimation with Observer-based Intermittent Kalman Filter and Radial Basis Function Neural Network," 2021 IEEE International Conference on Robotics and Biomimetics (**ROBIO**), under review.
+*	Y. Huang, **P. Zhang** and," W. Dong, " Relative State Estimation with Observer-based Intermittent Kalman Filter and Radial Basis Function Neural Network," 2021 IEEE International Conference on Robotics and Biomimetics (**ROBIO**), accepted.
 
 *	C. Gang, **P. Zhang**, Z. Wang and W. Dong, "TRP-Controller: An Efficient Anti-Saturation Controller for Quadrotors Performing Yaw-low-priority Motions," 2021 27th International Conference on Mechatronics and Machine Vision in Practice (**M2VIP**), accepted.
 
