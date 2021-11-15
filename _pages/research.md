@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My current work is about active visual perception in multi-agent formation control. This work leverages aerial platforms with an active-vision system, i.e., a motorized camera mounted on the drone to have an additional rotational DOF (Degree of Freedom). With this novel hardware, path planning and visual perception are decoupled as two separate concerns. 
+My current work is about active visual perception planning in multi-agent formation control. The vision-based relative localization can provide effective feedback for the cooperation of aerial swarm but was inherently restricted by the limited field of view (FOV) . Inspired by bird flocks in nature, we design an active-vision system, i.e., a motorized camera mounted on the drone to have an additional rotational DOF (Degree of Freedom). 
 
 <div align="center">
  <img src="/images/active-vision-system.gif"  width = "310" height = "240" alt="active-vision system" align="center" />
@@ -14,11 +14,13 @@ My current work is about active visual perception in multi-agent formation contr
 </div>
 
 
-For visual perception, an algorithm is designed to plan to angle of rotation of each camera to meet several requirements: First, each agent should be observed or observe at least one other agent so that the visual perception topology is a connected graph; Second, the rotation of the camera should avoid motion blur of the target agent. The results of visual perception are used for relative localization between agents.
+With this novel hardware, we need to consider the planning of visual perception for swarm cooperation. For visual perception, a graph-based attention planning algorithm is designed to plan to angle of rotation of each camera to meet several requirements: First, each agent should be observed or observe at least one other agent so that the visual perception topology is a connected graph; Second, the rotation of the camera should avoid motion blur of the target agent. The results of visual perception are used for relative localization between agents, which is realized in a distributed manner.
 
-For the path planning, the aerial swarm maintain their formation and avoid collision based on relative localization while performing tasks such area coverage or target following. 
+Only with proper visual observation graph Laplacian can the formation of the swarm converge. This inforamtion provides guidance for the design of control law and path planning of the swarm.
 
-The framework mentioned above is realized in a distributed manner. Agents communicate through UWB network.
+<!-- For the path planning, the aerial swarm maintain their formation and avoid collision based on relative localization while performing tasks such area coverage or target following.  -->
+
+<!-- The framework mentioned above Agents communicate through UWB network. -->
 
 Research Experiences
 ======
