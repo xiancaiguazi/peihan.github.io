@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant at Cooperative Intelligent Unmanned System (CIUS) Lab @ SJTU advised by [Prof. Wei Dong](https://scholar.google.com/citations?user=hbaEVRMAAAAJ&hl=en).
+I am a Research Assistant at Cooperative Intelligent Unmanned System (CIUS) Lab of Robotics Institute in SJTU advised by [Prof. Wei Dong](https://scholar.google.com/citations?user=hbaEVRMAAAAJ&hl=en).
 
 My research focuses on the **distributed coordination of multi-robot systems**, with a particular focus on state estimation under uncertainty, visual perception, modeling interaction within swarms of robots, control of networked multi-agent systems. At present, I am working on active-vision system planning of aerial swarm for the purposes of formation control. See at [Research](https://xiancaiguazi.github.io/research/).
 <!-- I am also adept at developing high-performance aerial platforms. -->
