@@ -20,7 +20,7 @@ Yuqiu Huang, Minghao Gou, **Peihan Zhang**, Xi Wang, Haoyu Xie, Xinjun Sheng <br
 2018 25th International Conference on Mechatronics and Machine Vision in Practice (M2VIP), [paper](https://ieeexplore.ieee.org/document/8600868) <br>
 Published  in November 2018. -->
 
-*	**P. Zhang**, C. Gang and W. Dong, "Agile Formation Control of Drone Flocking Enhanced with Active Vision-based Relative Localization," IEEE Robotics and Automation Letters (**RA-L**), Preprint arXiv:2108.05505. [arXiv](https://arxiv.org/pdf/2108.05505), [video](https://youtu.be/pyMY54b_c-4)
+*	**P. Zhang**, C. Gang and W. Dong, "Agile Formation Control of Drone Flocking Enhanced with Active Vision-based Relative Localization," IEEE Robotics and Automation Letters (**RA-L**), under review, Preprint arXiv:2108.05505. [arXiv](https://arxiv.org/pdf/2108.05505), [video](https://youtu.be/pyMY54b_c-4)
 
 *	**P. Zhang**, S. Xu, W. Zhang and W. Dong, "A Cooperative Aerial Inspection System with Continuable Charging Strategy," 2019 IEEE International Conference on Robotics and Biomimetics (**ROBIO**), 2019, pp. 770-777, doi: 10.1109/ROBIO49542.2019.8961597. [paper](https://ieeexplore.ieee.org/document/8961597), [video](https://youtu.be/VPgk_Q9hdwE)
 
