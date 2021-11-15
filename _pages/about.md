@@ -26,7 +26,7 @@ Education
   * Research Assistant @CUIS Lab
 
 * **B.E.**, School of Mechanical Engineering, Shanghai Jiao Tong University, *Sep. 2015-Jun. 2019*
-  * Major: Mechanical Engineering, GPA: 89.5/100 (3.85/4.0), **Ranking: 3/150**
+  * Major: Mechanical Engineering, GPA: 89.5/100 (3.85/4.3), **Ranking: 3/150**
   * Minor: Computer Science
 
 Selected Honors
